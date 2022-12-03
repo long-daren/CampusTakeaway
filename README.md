@@ -4,6 +4,7 @@
 
 ## 前后端分离开发
 | | 开发语言 | 开发工具 | 运行环境 | 服务器 |
+| --- | --- | --- | --- | --- |
 | 前端开发 | JavaScript、HTML | VS Code、Hbuilder | Node.js | Nginx | 
 | 后端开发 | Java | IDEA | JDK | Tomcat |
 
