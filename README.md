@@ -9,7 +9,7 @@
 | 后端开发 | Java | IDEA | JDK | Tomcat |
 
 ### 后端主要技术栈
-SpringBoot+MySql+Redis+MyBatis-Plus
+SpringBoot+MySql+Redis+MyBatis-Plus
 
 ### 项目功能
 系统管理后台主要提供给餐饮内部员工使用，可以对餐厅的菜品、套餐、订单进行管理和维护。移动端应用主要提供给消费者使用，可以在线浏览菜品、添加购物车、下单等。
